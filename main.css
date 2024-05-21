@@ -1,0 +1,31 @@
+.centered-title {
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.centered-obj { 
+   margin: 0 auto;
+   text-align: center;
+  }
+  
+.grey {
+   background-color: rgb(31, 31, 31);
+   color: white;
+   outline-color: white;
+   outline: white;
+  }
+
+.grey-btn {
+  background-color: rgb(31, 31, 31);
+  color: white;
+  border: white;
+  border-radius: 1cm;
+  }
+ 
+
+  body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+  }
+  

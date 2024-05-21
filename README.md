@@ -1,2 +1,2 @@
-# autogpt5-1-public
-Website
+# autogpt5.1 public website
+this is in beta
